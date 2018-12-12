@@ -8,7 +8,7 @@ GLSL rotation functions with matrices: 2D and 3D (with X/Y/Z convenience functio
 npm install glsl-rotate
 ```
 
-[![NPM](https://nodei.co/npm/glsl-rotate.png)](https://nodei.co/npm/glsl-rotate/)
+[![NPM](https://nodei.co/npm/glsl-rotate.png)](https://nodei.co/npm/glsl-rotate/) [![Greenkeeper badge](https://badges.greenkeeper.io/dmnsgn/glsl-rotate.svg)](https://greenkeeper.io/)
 
 ## Usage
 
